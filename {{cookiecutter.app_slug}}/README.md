@@ -1,0 +1,1 @@
+# {{ cookiecutter.app_title }}\n\nGerado com investidordanillo-cookiecutter-django (template cookiecutter minimal).\n\n## Uso\n\n1. Instale cookiecutter: `pip install cookiecutter`\n2. Gere o app: `cookiecutter /caminho/para/investidordanillo-cookiecutter-django`\n3. Responda as perguntas e copie a pasta gerada para seu projeto Django.\n
